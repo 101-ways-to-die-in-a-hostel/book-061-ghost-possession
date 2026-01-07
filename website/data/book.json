@@ -11,7 +11,7 @@
   },
   "tagline": "Some hostels are a bargain. Others cost you your life.",
   "synopsis": {
-    "short": "",
+    "short": "A skeptical paranormal debunker invites a Victorian-era ghost to possess her body as a joke during a seance, only to discover the spirit has no intention of leaving and systematically shuts down her organs from within.",
     "long": ""
   },
   "death_type": "Ghost Possession",
@@ -29,5 +29,6 @@
     "google_play": "",
     "audible": "",
     "kobo": ""
-  }
+  },
+  "death_teaser": "She opened the door. It walked right in."
 }
